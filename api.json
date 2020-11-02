@@ -1,0 +1,199 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "Denim Jackets",
+      "subTitle": " Just arrived",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/matheus-ferrero-334418-unsplash.jpg",
+      "btnTitle": "SHOP"
+    },
+    {
+      "id": 2,
+      "title": "Skeleton Tees",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/ian-dooley-347942-unsplash.jpg",
+      "btnTitle": "TRY"
+    },
+    {
+      "id": 3,
+      "title": "Skinny Jeans",
+      "subTitle": "Our bestseller",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/haley-phelps-62815-unsplash.jpg",
+      "btnTitle": "SHOP"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Top picks",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/christopher-campbell-28571-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "title": "New arrivals",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/marco-xu-496929-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Jackets",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/benjamin-voros-260869-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Lookbook",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/malvestida-magazine-458585-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Try this",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/michael-frattaroli-221247-unsplash.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryName": "Jackets",
+      "name": "White Tee",
+      "price": "$40.00",
+      "promotional": {
+        "name": "FRESH"
+      },
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/serrah-galos-494312-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "categoryName": "Denim",
+      "name": "Black blouse",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/kyle-loftus-590881-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "categoryName": "Accessories",
+      "name": "College jacket",
+      "price": "$40.00",
+      "promotional": {
+        "name": "SALE"
+      },
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/kyle-loftus-596319-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "categoryName": "Denim",
+      "name": "Carrot-fit jeans",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/ethan-haddox-484912-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "categoryName": "Jackets",
+      "name": "Striped T-Shirt",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/serrah-galos-494231-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "categoryName": "Shirts",
+      "name": "Short top",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/averie-woodard-319832-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "categoryName": "Sweaters",
+      "name": "Ethnic Sweater",
+      "price": "$40.00",
+      "promotional": {
+        "name": "SOLD OUT"
+      },
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/serrah-galos-494279-unsplash.jpg"
+    },
+    {
+      "id": 8,
+      "categoryName": "Coats",
+      "name": "Beige",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/dmitriy-ilkevich-437760-unsplash.jpg"
+    },
+    {
+      "id": 9,
+      "categoryName": "T-Shirts -Camiseta",
+      "name": "Skull tee",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/ian-dooley-347968-unsplash.jpg"
+    },
+    {
+      "id": 10,
+      "categoryName": "Jackets",
+      "name": "White Tee",
+      "price": "$40.00",
+      "promotional": {
+        "name": "FRESH"
+      },
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/serrah-galos-494312-unsplash.jpg"
+    },
+    {
+      "id": 11,
+      "categoryName": "Denim",
+      "name": "Black blouse",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/kyle-loftus-590881-unsplash.jpg"
+    },
+    {
+      "id": 12,
+      "categoryName": "Accessories",
+      "name": "College jacket",
+      "price": "$40.00",
+      "promotional": {
+        "name": "SALE"
+      },
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/kyle-loftus-596319-unsplash.jpg"
+    },
+    {
+      "id": 13,
+      "categoryName": "Denim",
+      "name": "Carrot-fit jeans",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/ethan-haddox-484912-unsplash.jpg"
+    },
+    {
+      "id": 14,
+      "categoryName": "Jackets",
+      "name": "Striped T-Shirt",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/serrah-galos-494231-unsplash.jpg"
+    },
+    {
+      "id": 15,
+      "categoryName": "Shirts",
+      "name": "Short top",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/averie-woodard-319832-unsplash.jpg"
+    },
+    {
+      "id": 16,
+      "categoryName": "Sweaters",
+      "name": "Ethnic Sweater",
+      "price": "$40.00",
+      "promotional": {
+        "name": "SOLD OUT"
+      },
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/serrah-galos-494279-unsplash.jpg"
+    },
+    {
+      "id": 17,
+      "categoryName": "Coats",
+      "name": "Beige",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/dmitriy-ilkevich-437760-unsplash.jpg"
+    },
+    {
+      "id": 18,
+      "categoryName": "T-Shirts -Camiseta",
+      "name": "Skull tee",
+      "price": "$40.00",
+      "url": "https://d19m59y37dris4.cloudfront.net/sell/1-4/img/product/ian-dooley-347968-unsplash.jpg"
+    }
+  ]
+}
