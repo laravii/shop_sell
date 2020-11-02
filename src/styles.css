@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: 'HK Grotesk', sans-serif;
+}
+
+body {
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow-x: hidden;
+
+}
+
+a {
+	color: inherit; /* blue colors for links too */
+	text-decoration: inherit; /* no underline */
+}
+
+button {
+	padding: 10px;
+}
+
+:root {
+	--white: #fff;
+	--light: #dee2e6;
+	--secund-white: #f8d5cf;
+	--third-light: #f8f9fa;
+	--black: #000;
+	--gray: #868e96;
+	--gray-border: #495057;
+	--dark: #343a40;
+	--blue: #3494e6;
+}
+
