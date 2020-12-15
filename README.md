@@ -1,3 +1,18 @@
+Esse projeto consiste em uma CRUD, baseada em um site de vendas com formato responsivo.
+Essa aplicação faz conexão com utilização de axios, com uma fake API criada com nodeJS.
+Sua página inicial consiste em um menu de navegação entre as demais abas o qual em formato mobile torna-se menu hamburguinho.
+![shopsellprincipal](https://user-images.githubusercontent.com/66284603/102256284-f72aa000-3ee9-11eb-8a22-f1c9937194b2.jpeg)
+![shopsellresponsive](https://user-images.githubusercontent.com/66284603/102257461-884e4680-3eeb-11eb-9fa0-c7af4eb8869d.jpeg)
+
+Na página de Shop, temos um mostruário de itens captados através da fake API e criados dinamicamente, os quais se tem a opção de editar ou excluir os itens, sendo que para a exclusão é necessário confirmação em modal.
+
+![shopsellpags](https://user-images.githubusercontent.com/66284603/102258748-ff380f00-3eec-11eb-8478-b55b9500eba5.jpeg)
+
+Já na página de Forms pode-se criar um novo produto, inserindo suas informações no formulário e dando um submit.
+
+![shopsellcrud](https://user-images.githubusercontent.com/66284603/102258986-4cb47c00-3eed-11eb-8439-7ed0feee8a2b.jpeg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
