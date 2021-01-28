@@ -1,4 +1,4 @@
-Esse projeto consiste em uma CRUD, baseada em um site de vendas com formato responsivo.
+Esse projeto consiste em uma CRUD, tendo como inspiração a página "https://demo.bootstrapious.com/sell/1-4/#".
 Essa aplicação faz conexão com utilização de axios, com uma fake API criada com nodeJS.
 Sua página inicial consiste em um menu de navegação entre as demais abas o qual em formato mobile torna-se menu hamburguinho.
 ![shopsellprincipal](https://user-images.githubusercontent.com/66284603/102256284-f72aa000-3ee9-11eb-8a22-f1c9937194b2.jpeg)
